@@ -1,6 +1,7 @@
 <%--<%@ taglib uri = "http://java.sun.com/jsp/jstl/core" prefix = "c" %>--%>
 <br>
 <br>
+<%@ page contentType="text/html;charset=UTF-8" %>
 
 <form action="/sms/Students" method="post">
   <table cellspacing="0" cellpadding="0">
